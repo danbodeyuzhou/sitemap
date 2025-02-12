@@ -1,0 +1,184 @@
+[
+  {
+    "type": "folder",
+    "addDate": 1694842897948,
+    "title": "书签栏",
+    "children": [
+      {
+        "type": "folder",
+        "addDate": 1724844182483,
+        "title": "常用工具",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1724845848326,
+            "title": "m3u8下载",
+            "icon": "https://logo.clearbit.com/blog.luckly-mjw.cn",
+            "url": "https://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1724844327969,
+            "title": "Video compress",
+            "icon": "https://logo.clearbit.com/tools.rotato.app",
+            "url": "https://tools.rotato.app/compress"
+          },
+          {
+            "type": "link",
+            "addDate": 1724844708064,
+            "title": "BingAI",
+            "icon": "https://logo.clearbit.com/bingai.szysite.com",
+            "url": "https://bingai.szysite.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724844708065,
+            "title": "Kimi AI",
+            "icon": "https://logo.clearbit.com/kimi.ai",
+            "url": "http://kimi.ai"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1724843886963,
+        "title": "SzySite.com",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1724844108675,
+            "title": "Scratch和Turbowarp作品",
+            "icon": "https://logo.clearbit.com/creative.szysite.com",
+            "url": "https://creative.szysite.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724844108675,
+            "title": "图床",
+            "icon": "https://logo.clearbit.com/image.szysite.com",
+            "url": "https://image.szysite.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724844108675,
+            "title": "短链接生成",
+            "icon": "https://logo.clearbit.com/surl.szysite.com",
+            "url": "https://surl.szysite.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724844108675,
+            "title": "Docker+",
+            "icon": "https://logo.clearbit.com/dockerplus.szysite.com",
+            "url": "https://dockerplus.szysite.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724844108676,
+            "title": "音乐",
+            "icon": "https://logo.clearbit.com/webtools.szysite.com",
+            "url": "https://webtools.szysite.com/music-unloc"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1724843544374,
+        "title": "网站",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1724843573679,
+            "title": "github-淡泊的宇宙",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/danbodeyuzhou"
+          },
+          {
+            "type": "link",
+            "addDate": 1724843593783,
+            "title": "github-creative",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/danbodeyuzhou/creative"
+          },
+          {
+            "type": "link",
+            "addDate": 1724843558054,
+            "title": "Cloudflare",
+            "icon": "https://logo.clearbit.com/cloudflare.com",
+            "url": "https://dash.cloudflare.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724845952960,
+            "title": "github搜索",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/search?q="
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1724842389304,
+        "title": "代码",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1724843491270,
+            "title": "TurboWarp",
+            "icon": "https://logo.clearbit.com/turbowarp.org",
+            "url": "https://turbowarp.org/editor"
+          },
+          {
+            "type": "link",
+            "addDate": 1724843715152,
+            "title": "mBlock",
+            "icon": "https://logo.clearbit.com/ide.mblock.cc",
+            "url": "https://ide.mblock.cc/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724843793677,
+            "title": "JS Bin",
+            "icon": "https://logo.clearbit.com/jsbin.com",
+            "url": "https://jsbin.com/?html,output"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "addDate": 1724844353748,
+        "title": "Alist文件",
+        "icon": "https://logo.clearbit.com/alist.nn.ci",
+        "url": "https://sfile.szysite.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1724845332296,
+        "title": "Pdf转换",
+        "icon": "https://logo.clearbit.com/www.eudic.com",
+        "url": "https://spdf.szysite.com"
+      },
+      {
+        "type": "link",
+        "addDate": 1724845623141,
+        "title": "历史记录",
+        "icon": "https://logo.clearbit.com/history",
+        "url": "chrome://history/"
+      },
+      {
+        "type": "link",
+        "addDate": 1724845656109,
+        "title": "下载内容",
+        "icon": "https://logo.clearbit.com/download",
+        "url": "chrome://downloads/"
+      },
+      {
+        "type": "link",
+        "addDate": 1724845673283,
+        "title": "书签",
+        "icon": "https://logo.clearbit.com/bookmark",
+        "url": "chrome://bookmarks/folder/3"
+      }
+    ]
+  }
+]
